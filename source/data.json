@@ -1,0 +1,100 @@
+{
+    "logo" : "/img/favicon.png",
+    "title": "Perfect Place for Your Holiday",
+    "subtitle": "Enjoy the tranquility with a private pool and exclusive facilities at Ardisan Guesthouse Purwokerto, The perfect place for your holiday, cause everyday is holiday!",
+    "phone": "6282221259022",
+    "about": "Welcome to Ardisan Guesthouse, a guesthouse with a private pool located in Purwokerto. We provide the perfect place for you who want to enjoy quality time or me time without any disturbance.",
+    "slider": [
+        "img/slider/1.jpeg",
+        "img/slider/2.jpeg",
+        "img/slider/3.jpeg",
+        "img/slider/4.jpeg",
+        "img/slider/5.jpeg",
+        "img/slider/6.jpeg",
+        "img/slider/7.jpeg",
+        "img/slider/8.jpeg",
+        "img/slider/9.jpeg",
+        "img/slider/10.jpeg"
+    ],
+    "carousel": [
+        "img/carousel/1.jpeg",
+        "img/carousel/2.jpeg",
+        "img/carousel/3.jpeg",
+        "img/carousel/4.jpeg",
+        "img/carousel/5.jpeg"
+    ],
+    "ctaImage": "img/cta/1.jpeg",
+    "ctaImage2": "img/cta/4.jpeg",
+    "ctaTitle": "Enjoy a Comfortable Stay Experience at Ardisan Guest House Purwokerto",
+    "ctaText": "We offer a comfortable home with clean rooms, modern facilities, and friendly service. Explore our aesthetic spots for your memories with friends and family here.",
+    "facilities": [
+        {
+            "text": "Smart TV With Netflix",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.75 6 6 9-13.5\" /></svg>"
+        },
+        {
+            "text": "3 Bedrooms",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.75 6 6 9-13.5\" /></svg>"
+        },
+        {
+            "text": "Kitchen Area",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.75 6 6 9-13.5\" /></svg>"
+        },
+        {
+            "text": "Private Pool",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.75 6 6 9-13.5\" /></svg>"
+        },
+        {
+            "text": "Spacious Parking",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.75 6 6 9-13.5\" /></svg>"
+        },
+        {
+            "text": "Wi-Fi",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.75 6 6 9-13.5\" /></svg>"
+        },
+        {
+            "text": "Karaoke",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.75 6 6 9-13.5\" /></svg>"
+        },
+        {
+            "text": "3 Bathrooms With Water Heater",
+            "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" fill=\"none\" viewBox=\"0 0 24 24\" stroke-width=\"1.5\" stroke=\"currentColor\" class=\"size-6\"><path stroke-linecap=\"round\" stroke-linejoin=\"round\" d=\"m4.5 12.75 6 6 9-13.5\" /></svg>"
+        }
+    ],
+    "pricing": [
+        {
+            "text": "24 Hours Stay",
+            "price": "Rp. 1.700.000",
+            "normalPrice": "Rp. 2.000.000"
+        },
+        {
+            "text": "5 Hours Stay",
+            "price": "Rp. 600.000",
+            "normalPrice": null
+        },
+        {
+            "text": "Adds On",
+            "price": "Rp. 100.000/Bed",
+            "normalPrice": "Rp. 150.000"
+        }
+    ],
+    "whyUs": [
+        {
+            "emoticon": "💦",
+            "title": "Private Pool",
+            "text": "Enjoy maximum freshness and privacy with a private swimming pool that is always kept clean, perfect for relaxing with family or friends."
+        },
+        {
+            "emoticon": "📸",
+            "title": "Aesthetic Spots",
+            "text": "Our rooms provide with aesthetic spots for your selfies. So the gallery will full of memories during your stay."
+        },
+        {
+            "emoticon": "🍳",
+            "title": "Exclusive Facilities",
+            "text": "From fully equipped kitchens to free Wi-Fi, we provide a variety of amenities to support your needs, whether for vacation or business trips."
+        }
+    ]
+}
+
+

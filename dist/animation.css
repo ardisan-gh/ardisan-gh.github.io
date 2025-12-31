@@ -1,0 +1,21 @@
+.package-item:hover {
+  transform: scale(1.1);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  z-index: 10;
+}
+.package-item:not(:hover) {
+  transform: scale(1);
+  z-index: 1;
+}
+
+/* Nonaktifkan animasi di tampilan mobile */
+@media (max-width: 768px) {
+  .no-animation {
+    animation: none !important;
+    transition: none !important;
+  }
+  .package-item {
+    transform: none !important;
+    box-shadow: none !important;
+  }
+}
